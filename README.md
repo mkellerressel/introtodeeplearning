@@ -20,9 +20,6 @@ We do this for you in each of the labs, but the package is also open source unde
 
 
 ## License
-All code in this repository is copyright 2023 [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com). All Rights Reserved.
-Some modifictions made by Martin Keller-Ressel
-
 Licensed under the MIT License. You may not use this file except in compliance with the License. Use and/or modification of this code outside of 6.S191 must reference:
 
 > © MIT 6.S191: Introduction to Deep Learning
